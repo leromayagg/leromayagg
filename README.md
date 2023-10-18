@@ -1,7 +1,7 @@
 Olá! Eu sou o Matheus Maia
 
 - 🔭 Não estou trabalhando
-- 🌱 Estudando HTML, CSS, JAVA, PYTHON, DATABASE
+- 🌱 Estudando React, JAVA, PYTHON, DATABASE
 
  </br>
   
