@@ -44,8 +44,4 @@ const lero = {
 };
 ```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leromayagg&show_icons=true&locale=en" alt="leromayagg" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leromayagg&show_icons=true&locale=en&layout=compact" alt="leromayagg" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leromayagg&" alt="leromayagg" /></p>
