@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matheus Maia</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil</h3>
+<p><em>Full Stack Developer at <a href="https://www.fiap.com.br">FIAP</a></em></p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leromayagg&label=Profile%20views&color=0e75b6&style=flat" alt="leromayagg" /> </p>
 
-- 🔭 I’m currently working on [Orgs-Cesta](https://github.com/leromayagg/Alura-React_native-Orgs-Cesta.git)
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **leromayamdm@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-[![GitHub leromayagg](https://img.shields.io/github/followers/leromayagg?label=follow&style=social)](https://github.com/leromayagg)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-maia-ba982a266/)](https://linkedin.com/in/matheus-maia-ba982a266/)
-
+[![GitHub leromayagg](https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/leromayagg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/matheus-maia-ba982a266/)
+[![Instagrm](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/leromayamdm/)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +24,7 @@ const lero = {
       python: ["FastAPI"],
     },
     databases: ["Oracle"],
-    machineLearning: ["Scikit-learn", "TensorFlow"],
+    machineLearning: ["Scikit-learn"],
   },
   architecture: [
     "Serverless Architecture",
@@ -44,4 +36,8 @@ const lero = {
 };
 ```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leromayagg&" alt="leromayagg" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=leromayagg&theme=violet-punch&locale=pt_BR)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
