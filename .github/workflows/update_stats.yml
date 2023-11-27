@@ -19,4 +19,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           IGNORED_REPOS : "to-sf-sfdcmaster"
-          SHOW_LANGUAGE : "True"
+          SHOW_LANGUAGE : "False"
