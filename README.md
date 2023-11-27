@@ -25,7 +25,7 @@ const lero = {
   otherAlias: "Full Stack Developer",
   technologies: {
     frontEnd: {
-      js: ["Vite", "React Native", "ReactJS"], // Adicionando ReactJS ao frontEnd
+      js: ["Vite", "React Native", "ReactJS"],
     },
     backEnd: {
       java: ["Spring"],
@@ -41,10 +41,7 @@ const lero = {
   ],
   challenge:
     "Create an application in React Native that consumes an API with a backend",
-  github: "https://github.com/seu-usuario",
-  linkedin: "https://www.linkedin.com/in/seu-usuario",
 };
-
 ```
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leromayagg&show_icons=true&locale=en" alt="leromayagg" /></p>
