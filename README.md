@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="400" src="https://i.pinimg.com/564x/54/ea/36/54ea360e446bd11449fcce9211c23d68.jpg">
+
 
 
 <h1 align="center">Hi 👋, I'm Matheus Maia</h1>
