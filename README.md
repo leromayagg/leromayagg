@@ -1,3 +1,6 @@
+<img align="top" alt="Coding" width="400" src="https://i.pinimg.com/564x/54/ea/36/54ea360e446bd11449fcce9211c23d68.jpg">
+
+
 <h1 align="center">Hi 👋, I'm Matheus Maia</h1>
 <p><em>Full Stack Developer at <a href="https://www.fiap.com.br">FIAP</a></em></p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif">
@@ -6,7 +9,8 @@
 
 [![GitHub leromayagg](https://img.shields.io/badge/Github-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/leromayagg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/matheus-maia-ba982a266/)
-[![Instagrm](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/leromayamdm/)
+[![Instagrm](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/leromayamdm/)
+[![Spotify](https://img.shields.io/badge/Spotify-000000?logo=instagram&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/leromayamdm)
 
 
 <h3 align="left">Languages and Tools:</h3>
