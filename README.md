@@ -42,6 +42,10 @@ const lero = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leromayagg&theme=violet-punch&locale=pt_BR)](https://git.io/streak-stats)
 
+
+<details> 
+ <summary>🤖 <b>My programming stats</b></summary>
+<br>
 <!--START_SECTION:waka-->
 
 ```txt
