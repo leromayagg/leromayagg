@@ -20,4 +20,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
-          IGNORED_REPOS : "to-sf-sfdcmaster"
+          
