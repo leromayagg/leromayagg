@@ -49,11 +49,8 @@ const lero = {
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        11 mins         ████████████████████▓░░░░   82.56 %
-Groovy            1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Cocoa             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Objective-C       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-CocoaPods         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JavaScript   4 mins          ███████████████████████▒░   92.87 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
