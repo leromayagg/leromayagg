@@ -49,8 +49,7 @@ const lero = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          ██████████████████░░░░░░░   71.88 %
-Other        1 min           ███████░░░░░░░░░░░░░░░░░░   28.12 %
+TypeScript   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
