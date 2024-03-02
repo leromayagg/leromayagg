@@ -49,7 +49,8 @@ const lero = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   31 mins         █████████████████▒░░░░░░░   69.44 %
+JSON   13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.56 %
 ```
 
 <!--END_SECTION:waka-->
