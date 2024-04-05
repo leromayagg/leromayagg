@@ -17,15 +17,14 @@
 
 ```javascript
 const lero = {
-  code: ["Java", "Javascript", "HTML", "CSS", "Python"],
+  code: ["Java", "TypeScript"],
   otherAlias: "Full Stack Developer",
   technologies: {
     frontEnd: {
-      js: ["Vite", "React Native", "ReactJS"],
+      tsx: ["React Native", "ReactJS", "NextJS"],
     },
     backEnd: {
-      java: ["Spring"],
-      python: ["FastAPI"],
+      java: ["Spring Boot"]
     },
     databases: ["Oracle"],
     machineLearning: ["Scikit-learn"],
@@ -34,9 +33,7 @@ const lero = {
     "Serverless Architecture",
     "Progressive Web Applications",
     "Single Page Applications",
-  ],
-  challenge:
-    "Create an application in React Native that consumes an API with a backend",
+  ]
 };
 ```
 
