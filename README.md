@@ -46,10 +46,11 @@ const lero = {
 <!--START_SECTION:waka-->
 
 ```txt
-Java             4 hrs 7 mins    █████████████████████▒░░░   85.17 %
-XML              42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java              3 hrs 2 mins    █████████████████████████   99.66 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
