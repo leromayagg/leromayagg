@@ -46,8 +46,7 @@ const lero = {
 <!--START_SECTION:waka-->
 
 ```txt
-C#       22 mins         ████████████████████████░   96.53 %
-CSHTML   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
