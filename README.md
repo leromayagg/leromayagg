@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Matheus Maia</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leromayagg&label=Profile%20views&color=0e75b6&style=flat" alt="leromayagg" /> </p>
 
@@ -25,8 +24,8 @@ const lero = {
     backEnd: {
       java: ["Spring Boot"]
     },
-    databases: ["Oracle"],
-    machineLearning: ["Scikit-learn"],
+    databases: ["Oracle", "Postgresql"],
+    
   },
   architecture: [
     "Serverless Architecture",
